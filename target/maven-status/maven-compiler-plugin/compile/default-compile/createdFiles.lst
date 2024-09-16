@@ -1,0 +1,10 @@
+com\mycompany\txttoxml\service\StaxReaderImpl.class
+com\mycompany\txttoxml\model\Book.class
+com\mycompany\txttoxml\service\ConvertTxtToXmlImpl.class
+com\mycompany\txttoxml\service\ConvertTxtToXml.class
+com\mycompany\txttoxml\service\StaxReader.class
+com\mycompany\txttoxml\model\Line.class
+com\mycompany\txttoxml\model\Paragraph.class
+com\mycompany\txttoxml\TxtToXml.class
+com\mycompany\txttoxml\model\Chapter.class
+com\mycompany\txttoxml\model\Statistic.class
