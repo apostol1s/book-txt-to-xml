@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><Selected_book>
+  <chapter>
+    <number>5</number>
+    <paragraph>
+      <number>5</number>
+      <line>
+        <number>1</number>
+        <sentence>Arcu odio ut sem nulla.</sentence>
+      </line>
+      <line>
+        <number>2</number>
+        <sentence>Nunc lobortis mattis aliquam faucibus.</sentence>
+      </line>
+      <line>
+        <number>3</number>
+        <sentence>Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper.</sentence>
+      </line>
+      <line>
+        <number>4</number>
+        <sentence>Nulla aliquet enim tortor at auctor urna nunc.</sentence>
+      </line>
+      <line>
+        <number>5</number>
+        <sentence>Ultricies tristique nulla aliquet enim tortor at auctor urna nunc.</sentence>
+      </line>
+      <line>
+        <number>6</number>
+        <sentence>Eget nunc lobortis mattis aliquam faucibus purus in.</sentence>
+      </line>
+      <line>
+        <number>7</number>
+        <sentence>Mauris augue neque gravida in fermentum et sollicitudin ac.</sentence>
+      </line>
+      <line>
+        <number>8</number>
+        <sentence>Convallis convallis tellus id interdum velit laoreet id donec ultrices.</sentence>
+      </line>
+      <line>
+        <number>9</number>
+        <sentence>Purus faucibus ornare suspendisse sed nisi lacus sed.</sentence>
+      </line>
+      <line>
+        <number>10</number>
+        <sentence>Viverra accumsan in nisl nisi scelerisque eu ultrices.</sentence>
+      </line>
+      <line>
+        <number>11</number>
+        <sentence>Imperdiet nulla malesuada pellentesque elit eget.</sentence>
+      </line>
+      <line>
+        <number>12</number>
+        <sentence>A arcu cursus vitae congue mauris rhoncus aenean vel elit.</sentence>
+      </line>
+      <line>
+        <number>13</number>
+        <sentence>In nisl nisi scelerisque eu ultrices vitae auctor eu augue.</sentence>
+      </line>
+      <line>
+        <number>14</number>
+        <sentence>Habitant morbi tristique senectus et netus et.</sentence>
+      </line>
+      <line>
+        <number>15</number>
+        <sentence>Varius sit amet mattis vulputate enim.</sentence>
+      </line>
+      <line>
+        <number>16</number>
+        <sentence>Nisl nisi scelerisque eu ultrices vitae auctor eu augue.</sentence>
+      </line>
+      <line>
+        <number>17</number>
+        <sentence>Nulla aliquet porttitor lacus luctus accumsan tortor posuere.</sentence>
+      </line>
+    </paragraph>
+  </chapter>
+  <statistics>
+    <paragraphCount>1</paragraphCount>
+    <lineCount>17</lineCount>
+    <wordCount>136</wordCount>
+    <distinctWordCount>84</distinctWordCount>
+  </statistics>
+</Selected_book>
