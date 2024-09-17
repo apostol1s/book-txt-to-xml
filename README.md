@@ -17,7 +17,7 @@ The TxtToXml Converter is an application that converts a text file (.txt) into a
 
 2. **Navigate to the project directory**
    ```bash
-   C:\Users\<yourPath>\eshop
+   C:\Users\<yourPath>\book-txt-to-xml
    ```
 
 3. **Open command prompt and run**
